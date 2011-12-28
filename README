@@ -1,0 +1,2 @@
+The plan is to make a Java EE6 example project that can be used as a template for other projects.
+Creating a maven archetype is not within the scope yet.
