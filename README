@@ -5,6 +5,5 @@ http://download.jboss.org/jbosstools/updates/indigo/SR1
 http://download.jboss.org/jbosstools/updates/development/indigo/
 For seam tools to work you must install "All JBoss Tools x.x" and Maven Suport.
 
-så installere all jboss tools (alle) og jboss maven integration
 I have tested this for development with jboss 7 AS and Eclipse 3.7 (Indigo)
 http://www.eclipse.org/downloads/packages/eclipse-classic-37/indigor
