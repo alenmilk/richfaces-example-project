@@ -1,3 +1,5 @@
 The plan is to make a Java EE6 example project that can be used as a template for other projects.
 Creating a maven archetype is not within the scope yet.
 For seam tools to work you must install
+I have tested this for development with jboss 7 AS and Eclipse 3.7 (Indigo)
+http://www.eclipse.org/downloads/packages/eclipse-classic-37/indigor
